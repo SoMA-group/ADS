@@ -1,1 +1,1 @@
-# ads
+# Adversarial Drum Synth (ADS)
