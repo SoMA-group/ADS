@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-addons
+oyaml
+tqdm
+librosa
+numpy
+os
+natsort
